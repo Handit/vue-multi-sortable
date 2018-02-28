@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "author": "lucas_amaral <lucas.amaral.dw@gmail.com>",
     "license": "MIT",
-    "private": true,
+    "private": false,
     "main": "dist/vue-sortable.min.js",
     "scripts": {
         "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
