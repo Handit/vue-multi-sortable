@@ -2,7 +2,7 @@
     "name": "vue-sortable",
     "description": "Vue sortable list component",
     "version": "1.0.0",
-    "author": "lucas_amaral <lucas.amaral.dw@gmail.com>",
+    "author": "lucamaral <lucas.amaral@gmail.com>",
     "license": "MIT",
     "private": false,
     "main": "dist/vue-sortable.min.js",
