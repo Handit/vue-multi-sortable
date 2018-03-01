@@ -18,6 +18,10 @@
         "last 2 versions",
         "not ie <= 8"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Handit/vue-multi-sortable.git"
+    },
     "devDependencies": {
         "babel-core": "^6.26.0",
         "babel-loader": "^7.1.2",
