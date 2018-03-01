@@ -1,7 +1,7 @@
 {
     "name": "vue-multi-sortable",
     "description": "Vue sortable list component",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": "lucamaral <lucas.amaral@gmail.com>",
     "license": "MIT",
     "private": false,
